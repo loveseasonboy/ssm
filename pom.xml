@@ -77,6 +77,12 @@
             <artifactId>tools</artifactId>
             <scope>system</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.sun/tools -->
+        <dependency>
+            <groupId>com.sun</groupId>
+            <artifactId>tools</artifactId>
+            <!--<scope>system</scope>-->
+        </dependency>
 
     </dependencies>
 
